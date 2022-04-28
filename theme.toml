@@ -3,9 +3,9 @@
 
 name = "Ananke Gohugo Theme"
 license = "MIT"
-licenselink = "https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/LICENSE.md"
+licenselink = "https://github.com/tjyrinki/gohugo-theme-ananke-test/blob/master/LICENSE.md"
 description = "A Base theme for building full featured Hugo sites"
-homepage = "https://github.com/theNewDynamic/gohugo-theme-ananke"
+homepage = "https://github.com/tjyrinki/gohugo-theme-ananke-test"
 tags = ["website", "starter", "responsive", "Disqus", "blog", "Tachyons", "Multilingual", "Stackbit"]
 features = ["posts", "shortcodes", "related content", "comments"]
 min_version = "0.84.0"
